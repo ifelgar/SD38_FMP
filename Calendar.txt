@@ -1,0 +1,6 @@
+{
+	"URL" : "https://portal.sd38.bc.ca/group/1pb88ds/Lists/SharedDocuments/School Calendar 2_97.fmp12",
+	"filename" : "SchoolCalendar 2_97.fmp12",
+	"type" : "Calendar",
+	"version" : "2.9.7"
+}
