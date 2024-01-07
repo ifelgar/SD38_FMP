@@ -1,0 +1,6 @@
+{
+	"URL" : "https://github.com/ifelgar/SD38_FMP/raw/main/Learning Maps Gradebook Guide.pdf",
+	"filename" : "Learning Maps Gradebook Guide.pdf",
+	"type" : "LMGuide",
+	"version" : "1"
+}
