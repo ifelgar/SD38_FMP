@@ -1,5 +1,5 @@
 {
-	"URL" : "https://github.com/ifelgar/SD38_FMP/raw/main/School%20Calendar%203_0_0.fmp12",
+	"URL" : "https://github.com/ifelgar/SD38_FMP/raw/main/School%20Calendar%203_0_1.fmp12",
 	"filename" : "SchoolCalendar 3_0_1.fmp12",
 	"type" : "Calendar",
 	"version" : "3.0.1"
