@@ -1,6 +1,6 @@
 {
-	"URL" : "https://github.com/ifelgar/SD38_FMP/raw/main/Class%20Organization%20Export%202_0_4.fmp12",
-	"filename" : "Class Organization Export 2_0_4.fmp12",
+	"URL" : "https://github.com/ifelgar/SD38_FMP/raw/main/Class%20Organization%20Export%202_0_5.fmp12",
+	"filename" : "Class Organization Export 2_0_5.fmp12",
 	"type" : "classOrg",
-	"version" : "2.0.4"
+	"version" : "2.0.5"
 }
