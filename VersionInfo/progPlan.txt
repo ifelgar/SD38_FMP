@@ -1,6 +1,6 @@
 {
-	"URL" : "https://github.com/ifelgar/SD38_FMP/raw/main/Program%20Planning%20Sheet%20Template%201_0_5.fmp12",
-	"filename" : "Program Planning Sheet Template 1_0_5.fmp12",
+	"URL" : "https://github.com/ifelgar/SD38_FMP/raw/main/Program%20Planning%20Sheet%20Template%201_0_6.fmp12",
+	"filename" : "Program Planning Sheet Template 1_0_6.fmp12",
 	"type" : "progPlan",
-	"version" : "1.0.5"
+	"version" : "1.0.6"
 }
