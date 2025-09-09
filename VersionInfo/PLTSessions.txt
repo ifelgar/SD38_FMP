@@ -1,0 +1,6 @@
+{
+	"URL" : "https://github.com/ifelgar/SD38_FMP/raw/main/PLT%20Sessions%20Setup%201_0_1.fmp12",
+	"filename" : "PLT Sessions Setup 1_0_1",
+	"type" : "PLTSessions",
+	"version" : "1.0.1"
+}
