@@ -1,6 +1,6 @@
 {
-	"URL" : "https://github.com/ifelgar/SD38_FMP/raw/main/PTC%20Bookings%201_0_1.fmp12",
-	"filename" : "PTC Bookings 1_0_1.fmp12",
+	"URL" : "https://github.com/ifelgar/SD38_FMP/raw/main/PTC%20Bookings%201_0_2.fmp12",
+	"filename" : "PTC Bookings 1_0_2.fmp12",
 	"type" : "PTCBookings",
-	"version" : "1.0.1"
+	"version" : "1.0.2"
 }
